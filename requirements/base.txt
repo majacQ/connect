@@ -11,7 +11,7 @@ pytz==2016.3
 Pillow==2.5.3
 
 dj-database-url==0.3.0 # Use DB_URL environment variable
-PyYAML==3.11 # Fixtures
+PyYAML==4.2b1 # Fixtures
 
 # Third Party Plugins
 django-endless-pagination==2.0

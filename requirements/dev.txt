@@ -10,3 +10,4 @@ sphinx-rtd-theme
 # Local debugging
 django-debug-toolbar
 django-extensions
+django>=3.2.14 # not directly required, pinned by Snyk to avoid a vulnerability

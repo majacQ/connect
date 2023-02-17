@@ -8,7 +8,7 @@ pytz==2016.3
 
 
 # Image Support
-Pillow==2.5.3
+Pillow==9.2.0
 
 dj-database-url==0.3.0 # Use DB_URL environment variable
 PyYAML==3.11 # Fixtures
